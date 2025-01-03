@@ -62,3 +62,7 @@ Findings and visualizations are stored in the **`images/`** folder, including:
 ## About
 This project demonstrates practical data analysis and cybersecurity skills, integrating Python, Pandas, and Matplotlib/Seaborn to extract insights from suspicious web traffic data.
 
+![Distribution of Bytes In](images/bytes_in_distribution.png)
+![Bytes In vs. Bytes Out](images/bytes_in_vs_bytes_out.png)
+![Detection Types Count](images/detection_types_count.png)
+
